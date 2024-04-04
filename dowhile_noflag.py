@@ -1,9 +1,9 @@
-# Initialization expression (Change as per need)
+# Initialization expression (Change 'i=10' as per need)
 i=10
 
 # Conditional Statement
 def conditional_statement(i):
-    #Change the conditional statement as per need
+    #Change the conditional statement 'i<10 and i>=0' as per need
     return i<10 and i>=0
 
 # Conditional Statement for the loop. Do not tinker with below statement
@@ -17,6 +17,8 @@ while loop_conditional_statement(i):
     print("Hello World")
     
     i-=1
+    
+    # End of Body
     
     # Check the feasibility of the condtional_statement after the first execution
     # for exit control of the while loop
