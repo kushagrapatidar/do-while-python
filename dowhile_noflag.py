@@ -1,8 +1,9 @@
 # Initialization expression (Change as per need)
 i=10
 
-# Conditional Statement (Change as per need)
+# Conditional Statement
 def conditional_statement(i):
+    #Change the conditional statement as per need
     return i<10 and i>=0
 
 # Conditional Statement for the loop. Do not tinker with below statement
